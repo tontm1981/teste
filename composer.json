@@ -1,0 +1,15 @@
+{
+    "name": "tontm1981/teste",
+    "description": "A little test",
+    "type": "project",
+    "require": {
+        "php-http/guzzle6-adapter": "^1.1",
+        "knplabs/github-api": "2.0.*"
+    },
+    "authors": [
+        {
+            "name": "Elton Moreno",
+            "email": "tontm1981@gmail.com"
+        }
+    ]
+}
